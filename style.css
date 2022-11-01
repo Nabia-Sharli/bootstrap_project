@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.seeMoreBtn{
+   background-color: brown;
+    color: white;
+    font-weight: bolder;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
